@@ -9,7 +9,7 @@
 ## Как установить?
 1. Нам нужна библиотека `pywebio` поэтому через PIP устанавливаем её `pip install pywebio`
 2. После этого скачиваем проект `git clone https://github.com/tot-camiy-coder/TGspam.py.git`
-3. Переходим в созданную папку `cd TGspam`
+3. Переходим в созданную папку `cd TGspam.py`
 4. Запускаем `python tgspam.py`
 
 ## Как использовать?

@@ -38,6 +38,6 @@
 <br><br>
 
 ## Как поддержать Автора?
-Его можно поддержать, купив кофе через [DonateAlerts](https://www.donationalerts.com/r/tot_camyi_coder) <br>
+Его можно поддержать, купив кофе через [DonateAlerts](https://www.donationalerts.com/r/only_localhost) <br>
 Автор будет очень благодарен любому донату <br>
 
